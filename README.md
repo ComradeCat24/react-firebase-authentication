@@ -1,4 +1,4 @@
-# react-semantic-ui-firebase-authentication
+# react-firebase-authentication
 
 ## Features
 
@@ -23,7 +23,7 @@
 
 ## Installation
 
-- `git clone `
+- `git clone https://github.com/ComradeCat24/react-firebase-authentication.git`
 - `cd react-firebase-authentication`
 - `npm install`
 - `npm start`
@@ -46,8 +46,6 @@ REACT_APP_FIREBASE_PROJECT_ID=""
 REACT_APP_FIREBASE_STORAGE_BUCKET=""
 REACT_APP_FIREBASE_MESSAGING_SENDER_ID=""
 REACT_APP_FIREBASE_APP_ID=""
-
-
 ```
 
 ### Activate Verification E-Mail
